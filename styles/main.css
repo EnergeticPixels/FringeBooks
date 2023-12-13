@@ -115,6 +115,12 @@ img {
   margin-bottom: 15px;
 }
 
+/* CASES */
 .cases img:hover {
   opacity: 0.7;
+}
+
+/* TEAM */
+.team img {
+  border-radius: 50%;
 }
