@@ -2,14 +2,11 @@
 
 This project is a basic business webpage built using HTML and CSS. It demonstrates the use of various HTML elements and CSS properties, including the use of flexbox for website layout.
 
-## Technologies Used
-
-- HTML
-- CSS
-
 ## Features
 
-- XXXXX
+- HTML5
+- CSS3 (including Flexbox)
+- Jquery driven Lightbox
 
 ## Setup
 
@@ -26,9 +23,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Next Steps
-- Add more CSS styles to the webpage.
-- Implement responsive design.
-- Add JavaScript to make the webpage interactive.
-- Host the webpage on a server.
