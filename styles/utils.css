@@ -62,6 +62,9 @@
   flex-wrap: wrap;
   width: 100%;
 }
+.flex-columns.flex-reverse {
+  flex-direction: row-reverse;
+}
 .flex-columns .column {
   display: flex;
   flex-direction: column;
