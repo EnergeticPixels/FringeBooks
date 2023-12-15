@@ -1,4 +1,4 @@
-# Hotel Webpage
+# Fringe Books
 
 This project is a basic business webpage built using HTML and CSS. It demonstrates the use of various HTML elements and CSS properties, including the use of flexbox for website layout.
 
